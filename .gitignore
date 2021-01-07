@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+build/
+venv/
+
+app.spec
+Flappy Bird.exe
+Flappy Bird - Shortcut.lnk
